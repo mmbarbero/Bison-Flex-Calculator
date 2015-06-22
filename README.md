@@ -15,9 +15,8 @@ CS Assignment - scientific calculator with Bison &amp; Flex, with additonal func
 ![example screenshot](http://i.imgur.com/FArh5XE.png "Example use of the calculator")
 
 ## Requirements
-1. Bison
-2. Flex
-.. * Both need to be added to PATH on Windows
+1. Bison (needs adding to PATH on windows)
+2. Flex (needs adding to PATH on windows)
 3. gcc compiler
 
 ## Compile and execute
