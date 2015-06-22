@@ -4,10 +4,10 @@ CS Assignment - scientific calculator with Bison &amp; Flex, with additonal func
 ## Functionality 
 * Basic arithmetic following BODMAS rules e.g, 4 * (3 + 2) = 20
 * Standard functions (modulo, ceil, abs, floor) 
-* Logaritmic functions (log2, log10)
+* Logarithmic functions (log2, log10)
 * Trig functions (cos, sin, tan)
 * Hyperbolic functions (cosh, sinh, tanh)
-* Convertions (currency, temperature, distance) 
+* Conversions (currency, temperature, distance) 
 * Variable stores (create and use your own variables. See example)
 * Can read input from a command line or file
 
