@@ -1,5 +1,5 @@
 # Bison-Flex-Calculator
-CS Assignment - scientific calculator with Bison &amp; Flex, with additonal functionality implemented in C
+CS Assignment - scientific calculator using Bison &amp; Flex, with additonal functionality implemented in C
 
 ## Functionality 
 * Basic arithmetic following BODMAS rules e.g, 4 * (3 + 2) = 20
