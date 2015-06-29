@@ -9,7 +9,7 @@ CS Assignment - scientific calculator using Bison &amp; Flex, with additonal fun
 * Hyperbolic functions (cosh, sinh, tanh)
 * Conversions (currency, temperature, distance) 
 * Variable stores (create and use your own variables. See example)
-* Can read input from a command line or file
+* Can read input the command line or a file
 
 ## Example
 ![example screenshot](http://i.imgur.com/FArh5XE.png "Example use of the calculator")
